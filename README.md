@@ -1,2 +1,3 @@
-# Victoria_finaltest_2304_p2
-Victoria Katz, This is the Version control for the final test.
+# Victoria Katz
+
+Here are the instructions for the final test repository.
